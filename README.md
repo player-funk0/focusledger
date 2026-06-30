@@ -88,4 +88,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 Made by obrynex 
-site for commpany: https://web.obrynex.workers.dev/
+
+site for company: https://web.obrynex.workers.dev/
