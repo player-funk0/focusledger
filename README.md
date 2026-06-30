@@ -72,10 +72,6 @@ To get a local copy up and running, follow these simple steps.
 4.  **Personalize Your Profile**: Update your username, bio, and avatar in the Profile screen.
 
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## 📧 Contact
 
 Made by obrynex 
