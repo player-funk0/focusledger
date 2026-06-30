@@ -1,0 +1,6 @@
+{
+  "name": "FocusLedger",
+  "description": "FocusLedger is a 100% Offline-First time management and productivity application, featuring a Modern Minimalist design with a dynamic productivity card and a secure focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
